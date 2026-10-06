@@ -112,7 +112,7 @@ To rebuild the package yourself, run `make package` (or `make zip` to also compr
 
 <div align="center">
 
-<iframe frameborder="0" src="https://itch.io/embed/5103168?linkback=true&amp;bg_color=090712&amp;fg_color=E8CFA6&amp;link_color=D8A96E&amp;border_color=292040" width="552" height="167"><a href="https://supfinn.itch.io/pac-man">Pac-Man: Finn &amp; Eyomi by Finn</a></iframe>
+[![Play Pac-Man](https://img.shields.io/badge/🎮%20PLAY%20PAC--MAN-D8A96E?style=for-the-badge&labelColor=090712)](https://supfinn.itch.io/pac-man)
 
 </div>
 

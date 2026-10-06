@@ -1,0 +1,21 @@
+# Build output
+build/
+dist/
+*.zip
+
+# Environments
+.venv/
+.venv-win/
+
+# Python caches
+__pycache__/
+*.pyc
+.mypy_cache/
+.pytest_cache/
+
+# Local data
+highscores.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db

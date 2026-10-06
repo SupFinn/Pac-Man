@@ -1,0 +1,21 @@
+[project]
+name = "pacman-42"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "rich",
+    "pygame",
+    "mazegenerator",
+    "opencv-python",
+    "numpy",
+]
+
+[tool.uv.sources]
+mazegenerator = { path = "packages/mazegenerator-2.1.0-py3-none-any.whl" }
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.22.3",
+]

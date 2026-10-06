@@ -1,0 +1,31 @@
+{
+    "highscore_filename": "highscores.json",
+    "lives": 3,
+    "points_per_pacgum": 5,
+    "points_per_super_pacgum": 10,
+    "points_per_ghost": 20,
+    "seed": "200",
+    "levels": [
+        {"width": 16, "height": 11, "max_time": 100},
+        {"width": 18, "height": 12, "max_time": 120},
+        {"width": 20, "height": 14, "max_time": 140},
+        {"width": 22, "height": 15, "max_time": 160},
+        {"width": 24, "height": 16, "max_time": 180},
+        {"width": 26, "height": 17, "max_time": 205},
+        {"width": 28, "height": 18, "max_time": 225},
+        {"width": 30, "height": 19, "max_time": 240},
+        {"width": 32, "height": 19, "max_time": 250},
+        {"width": 34, "height": 20, "max_time": 260},
+
+        {"width": 36, "height": 20, "max_time": 290},
+        {"width": 36, "height": 22, "max_time": 310},
+        {"width": 38, "height": 22, "max_time": 320},
+        {"width": 38, "height": 24, "max_time": 340},
+        {"width": 40, "height": 24, "max_time": 345},
+        {"width": 40, "height": 26, "max_time": 365},
+        {"width": 40, "height": 28, "max_time": 380},
+        {"width": 40, "height": 30, "max_time": 395},
+        {"width": 40, "height": 32, "max_time": 415},
+        {"width": 40, "height": 34, "max_time": 435}
+    ]
+}
